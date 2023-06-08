@@ -51,5 +51,5 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=intruder9211&show_icons=true&locale=en" alt="intruder9211" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=intruder9211&" alt="intruder9211" /></p>
-
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/834262e29d5c54ef1552fefea1e7a98d9d2597a1ac838db16ef29891ac7e5f6f/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d7261646963616c"><img src="https://camo.githubusercontent.com/834262e29d5c54ef1552fefea1e7a98d9d2597a1ac838db16ef29891ac7e5f6f/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d7261646963616c" alt="" data-canonical-src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" style="max-width: 100%;"></a></p>
 
