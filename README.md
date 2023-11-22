@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/mr_10_intruder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_10_intruder" height="30" width="40" /></a>
 <a href="https://youtube.com/@facttogod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="facttogod" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/singhmohit1011" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="singhmohit1011" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/users/singhmohit101103" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="singhmohit1011" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/intruder9211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="intruder9211" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/singhmohi943s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="singhmohi943s" height="30" width="40" /></a>
 </p>
