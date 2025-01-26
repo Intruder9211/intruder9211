@@ -1,3 +1,6 @@
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=intruder9211&show_icons=true&locale=en&layout=compact" alt="intruder9211" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=intruder9211&show_icons=true&locale=en" alt="intruder9211" /></p>
 ### Hi there 👋
 
 <!--
